@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { CloudCafe } from "../components/CloudCafe";
+import { CloudCafe } from "../components/CloudCafe.jsx";
 import { Pricing } from "./Pricing.jsx";
 import { Feedback } from "../components/Feedback.jsx";
 import { Speciality } from "../components/Speciality.jsx";
